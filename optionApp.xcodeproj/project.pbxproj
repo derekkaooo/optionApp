@@ -12,6 +12,7 @@
 		6559BEB0210C12DD00801B42 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6559BEAE210C12DD00801B42 /* Main.storyboard */; };
 		6559BEB2210C12DE00801B42 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6559BEB1210C12DE00801B42 /* Assets.xcassets */; };
 		6559BEB5210C12DE00801B42 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6559BEB3210C12DE00801B42 /* LaunchScreen.storyboard */; };
+		65D6C6C2210DB8B900CE63BE /* 軒轅劍參 - 音樂故事集雲和山的彼端CD1-40.大唐帝國.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 65D6C6C1210DB8B900CE63BE /* 軒轅劍參 - 音樂故事集雲和山的彼端CD1-40.大唐帝國.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		6559BEB1210C12DE00801B42 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6559BEB4210C12DE00801B42 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6559BEB6210C12DE00801B42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65D6C6C1210DB8B900CE63BE /* 軒轅劍參 - 音樂故事集雲和山的彼端CD1-40.大唐帝國.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "軒轅劍參 - 音樂故事集雲和山的彼端CD1-40.大唐帝國.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				6559BEAE210C12DD00801B42 /* Main.storyboard */,
 				6559BEB1210C12DE00801B42 /* Assets.xcassets */,
 				6559BEB3210C12DE00801B42 /* LaunchScreen.storyboard */,
+				65D6C6C1210DB8B900CE63BE /* 軒轅劍參 - 音樂故事集雲和山的彼端CD1-40.大唐帝國.mp3 */,
 				6559BEB6210C12DE00801B42 /* Info.plist */,
 			);
 			path = optionApp;
@@ -124,6 +127,7 @@
 			files = (
 				6559BEB5210C12DE00801B42 /* LaunchScreen.storyboard in Resources */,
 				6559BEB2210C12DE00801B42 /* Assets.xcassets in Resources */,
+				65D6C6C2210DB8B900CE63BE /* 軒轅劍參 - 音樂故事集雲和山的彼端CD1-40.大唐帝國.mp3 in Resources */,
 				6559BEB0210C12DD00801B42 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
